@@ -1,0 +1,41 @@
+Sample Data:
+{
+    "id"  :"2"
+    "name": "David Costa",
+    "email": "sam.mraz1996@yahoo.com",
+    "age": "29",
+    "designation": "Apparel Patternmaker",
+    "created": "2013-03-03 01:20:10"
+}
+
+
+API END POINTS:
+
+http://localhost/Php-Rest-ApI/api/delete.php
+{
+    "id"  :"2"
+}
+
+http://localhost/Php-Rest-ApI/api/read.php?2
+
+http://localhost/Php-Rest-ApI/api/create.php
+{
+    "name": "David Costa",
+    "email": "sam.mraz1996@yahoo.com",
+    "age": "29",
+    "designation": "Apparel Patternmaker",
+    "created": "2013-03-03 01:20:10"
+}
+
+http://localhost/Php-Rest-ApI/api/single_read.php?2
+
+
+http://localhost/Php-Rest-ApI/api/update.php
+{
+    "id"  :"2"
+    "name": "David Costa",
+    "email": "sam.mraz1996@yahoo.com",
+    "age": "29",
+    "designation": "Apparel Patternmaker",
+    "created": "2013-03-03 01:20:10"
+}
