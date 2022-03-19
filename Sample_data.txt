@@ -39,3 +39,5 @@ http://localhost/Php-Rest-ApI/api/update.php
     "designation": "Apparel Patternmaker",
     "created": "2013-03-03 01:20:10"
 }
+
+Reference: https://www.positronx.io/create-simple-php-crud-rest-api-with-mysql-php-pdo/
